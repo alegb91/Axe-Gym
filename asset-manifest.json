@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Axe-Gym/static/css/main.5c88e74c.css",
+    "main.js": "/Axe-Gym/static/js/main.5439b1d6.js",
+    "static/js/787.74a6d13a.chunk.js": "/Axe-Gym/static/js/787.74a6d13a.chunk.js",
+    "static/media/crossfit.jpg": "/Axe-Gym/static/media/crossfit.8dbebad70e2354431c1a.jpg",
+    "static/media/pilates.jpg": "/Axe-Gym/static/media/pilates.cb2dd3c3dc173f0e8695.jpg",
+    "static/media/aerobics.jpg": "/Axe-Gym/static/media/aerobics.7e858cd786e281af9eb7.jpg",
+    "static/media/crossfit2.jpg": "/Axe-Gym/static/media/crossfit2.819644e87ac41813a62a.jpg",
+    "static/media/weights.jpg": "/Axe-Gym/static/media/weights.399ac28088840fabf33f.jpg",
+    "static/media/Lakeyboy_Silhouette.png": "/Axe-Gym/static/media/Lakeyboy_Silhouette.4b656a08d6b8ef1dcfba.png",
+    "index.html": "/Axe-Gym/index.html",
+    "main.5c88e74c.css.map": "/Axe-Gym/static/css/main.5c88e74c.css.map",
+    "main.5439b1d6.js.map": "/Axe-Gym/static/js/main.5439b1d6.js.map",
+    "787.74a6d13a.chunk.js.map": "/Axe-Gym/static/js/787.74a6d13a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c88e74c.css",
+    "static/js/main.5439b1d6.js"
+  ]
+}
